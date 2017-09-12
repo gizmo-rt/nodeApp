@@ -1,0 +1,22 @@
+{
+  "name": "mean-app",
+  "version": "1.0.0",
+  "description": "A sample app implemented using mean stack",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pawan Raj Murarka",
+  "license": "ISC",
+  "devDependencies": {
+    "body-parser": "^1.18.0",
+    "ejs": "^2.5.7",
+    "express": "^4.15.4",
+    "fs": "0.0.1-security",
+    "mongoose": "^4.11.11",
+    "morgan": "^1.8.2",
+    "path": "^0.12.7",
+    "rotate-file-stream": "0.0.4",
+    "rotating-file-stream": "^1.2.2"
+  }
+}
