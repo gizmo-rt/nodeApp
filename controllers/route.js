@@ -12,19 +12,19 @@ module.exports = function (app) {
         var data = [
             {
                 user: "John",
-                task: "Prepare breakfast",
+                task: "Setup",
                 is_done: "true",
                 has_attachment: "false"
             },
             {
                 user: "Doe",
-                task: "Clean house",
+                task: "Launch",
                 is_done: "false",
                 has_attachment: "false"
             },
             {
                 user: "Charlie",
-                task: "Attend Meetings",
+                task: "Verify",
                 is_done: "false",
                 has_attachment: "false"
             }
